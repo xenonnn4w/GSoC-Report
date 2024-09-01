@@ -22,14 +22,15 @@ flashcards application that helps people learn and memorize a diverse variety of
     </p>
 
 
-## Results
-
-### Before Instant Note Editor
-The user had to copy and paste the text in the app and then create a cloze note or share the copied text to AnkiDroid, which would open the NoteEditor Screen: 
+### Deck Picker Widget
+The Deck Picker Widget offers users a convenient display of their decks, showcasing the number of cards that are new, in learning, and due for review, all at a glance. This display-only widget allows users to quickly review any deck by simply clicking on it directly from the widget. With a maximum of five decks that can be selected, users can reconfigure their widget by holding it down, making it easy to customize their overview. This feature-rich widget provides a seamless way for users to stay on top of their study progress without having to open the app.
 <p align="center">
-    <img alt="" src="media/legacy-editor.png" width="30%" height="30%">
+    <video width="500px" 
+           height="400px" 
+           controls="controls">
+        <source src="files/DeckPickerVideo" video/mp4" />
+    </video>
 </p>
-
 ### After Instant Note Editor
 Users can select and share selected text to AnkiDroid. The `Instant Note` feature helps them create cloze notes without actually opening the app:
 <p align="center">
