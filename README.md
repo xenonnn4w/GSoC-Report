@@ -1,6 +1,6 @@
 ![GSoC logo](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg)
 
-<h1 align="center">Anup<br>2024 <br> 
+<h1 align="center">Anoop<br>2024 <br> 
   <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> </h1>
 
 ## My mentors
@@ -11,7 +11,7 @@
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) is a companion Android application for [Anki](https://github.com/ankitects/anki), a 
 flashcards application that helps people learn and memorize a diverse variety of topics. 
 
-[Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM) consisted of
+[Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM) is mainly about
 * Introducing the Deck Picker Widget.
 * Introducing the Card Analysis Widget.
 
