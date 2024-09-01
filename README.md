@@ -27,9 +27,11 @@ The Deck Picker Widget offers users a convenient display of their decks, showcas
 <p align="center">
     <video width="500px" height="400px" controls>
         <source src="files/DeckPickerVideo.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
+        Your browser does not support the video tag. 
+        <a href="files/DeckPickerVideo.mp4">Download the video</a> instead.
     </video>
 </p>
+
 
 ### After Instant Note Editor
 Users can select and share selected text to AnkiDroid. The `Instant Note` feature helps them create cloze notes without actually opening the app:
