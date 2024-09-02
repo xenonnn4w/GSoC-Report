@@ -23,13 +23,12 @@ flashcards application that helps people learn and memorize a diverse variety of
 
 
 ### Deck Picker Widget
-The Deck Picker Widget offers users a convenient display of their decks, showcasing the number of cards that are new, in learning, and due for review, all at a glance. This display-only widget allows users to quickly review any deck by simply clicking on it directly from the widget. With a maximum of five decks that can be selected, users can reconfigure their widget by holding it down, making it easy to customize their overview. This feature-rich widget provides a seamless way for users to stay on top of their study progress without having to open the app.
+The Deck Picker Widget offers users a convenient display of their decks, showcasing the number of cards that are new, in learning, and due for review, all at a glance. 
+This display-only widget allows users to quickly review any deck by simply clicking on it directly from the widget. With a maximum of five decks that can be selected, 
+users can reconfigure their widget by holding it down, making it easy to customize their overview. This feature-rich widget provides a seamless way for users to stay
+on top of their study progress without having to open the app.
 
-### Video Demo
+### How to use
 
-<p align="center">
-  <video width="50%" height="50%" controls>
-    <source src="files/DeckPickerVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+
+### Card Analysis Widget
