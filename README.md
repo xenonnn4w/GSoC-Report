@@ -26,9 +26,5 @@ The Deck Picker Widget offers users a convenient display of their decks, showcas
 
 
 
-   <p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zFMTJm3vmh0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<video width="640" height="360" controls>
-  <source src="files/DeckPickerVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>    </p>
