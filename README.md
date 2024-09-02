@@ -13,11 +13,11 @@ flashcards application that helps people learn and memorize a diverse variety of
 
 [Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM) is mainly about
 * Introducing the Deck Picker Widget.
-  <p align="center">
+  <p align="left">
     <img alt="" src="files/DeckPicker.png" width="30%" height="30%">
   </p>
 * Introducing the Card Analysis Widget.
-    <p align="center">
+    <p align="left">
     <img alt="" src="files/CardAnalysis.png" width="30%" height="30%">
     </p>
 
