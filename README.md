@@ -5,9 +5,9 @@
     <img alt="star" src="files/star.svg" width="4%" height="4%" style="vertical-align: middle;">
     Anoop
   </p>
-  <p align="center">2024</p>
+  <p align="center">   2024</p>
   <p align="center">
-     <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> 
+     <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">    AnkiDroid</a> 
   </p>
 </h1>
 
