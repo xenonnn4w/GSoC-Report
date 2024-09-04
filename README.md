@@ -7,7 +7,7 @@
 ## 🌼My mentors
 [David Allison](https://github.com/david-allison) | [Arthur Milchior](https://github.com/Arthur-Milchior) | [Shridhar Goel](https://github.com/ShridharGoel)
 
-## ❄️Project Details
+## 🌸Project Details
 
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) is a companion Android application for [Anki](https://github.com/ankitects/anki), a 
 flashcards application that helps people learn and memorize a diverse variety of topics. 
