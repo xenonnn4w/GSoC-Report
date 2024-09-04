@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <p align="left">
-    <img alt="" src="files/star.svg" width="30%" height="30%">
+    <img alt="" src="files/star.svg" width="3%" height="3%">
     </p>
 Anoop<br>2024<br> 
   <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> </h1>
