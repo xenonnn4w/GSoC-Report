@@ -56,5 +56,5 @@ making it a straightforward tool for staying engaged with their study routine di
 
 ### Working
 <p align="center">
-    <img alt="" src="files/Map.svg" width="100%" height="100%">
+    <img alt="" src="files/MapR.svg" width="100%" height="100%">
 </p>
