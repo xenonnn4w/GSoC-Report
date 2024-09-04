@@ -55,6 +55,16 @@ making it a straightforward tool for staying engaged with their study routine di
 </p>
 
 ### Working
+Since both the Deck Picker Widget and the Card Analysis Widget function similarly, as outlined in the mind map below, their operation can be easily understood in the same context as
 <p align="center">
     <img alt="" src="files/MapRe.svg" width="100%" height="100%">
 </p>
+
+
+## 📂 Pull Requests
+
+Here's a list of the pull requests I created during GSoC 2024:
+
+1. [[GSoC'24] Introducing AnalyticsWidgetProvider as ancestor of all widget classes. #16545](https://github.com/ankidroid/Anki-Android/pull/16545)
+2. [[GSoC'24] Deck Picker Widget #16450](https://github.com/ankidroid/Anki-Android/pull/16450)
+3. [[GSoC'24] Card Analysis Widget . #16982](https://github.com/ankidroid/Anki-Android/pull/16982)
