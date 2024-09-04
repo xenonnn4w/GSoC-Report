@@ -42,6 +42,18 @@ on top of their study progress without having to open the app.
     <img alt="" src="files/D5.png" width="30%" height="30%">
 </p>
 
+### Card Analysis Widget
+The Card Analysis Widget delivers a detailed view of a single deck, presenting key metrics such as the count of new, in-progress, and review cards. Unlike the Deck Picker Widget,
+which covers multiple decks, this widget is dedicated to offering an in-depth focus on one specific deck. Users can personalize their widget by pressing and holding it,
+making it a straightforward tool for staying engaged with their study routine directly from the home screen, without the need to open the app.
+
+### How to use 
+
+<p align="center">
+    <img alt="" src="files/C1.png" width="30%" height="30%">
+    <img alt="" src="files/C2.png" width="30%" height="30%">
+</p>
+
 ### Working
 <p align="center">
     <img alt="" src="files/DEQ.svg" width="100%" height="100%">
