@@ -54,7 +54,7 @@ making it a straightforward tool for staying engaged with their study routine di
     <img alt="" src="files/C2.png" width="30%" height="30%">
 </p>
 
-### Working
+## Working
 Since both the Deck Picker Widget and the Card Analysis Widget function similarly, as outlined in the mind map below, their operation can be easily understood in the same context as
 <p align="center">
     <img alt="" src="files/MapRe.svg" width="100%" height="100%">
