@@ -21,7 +21,7 @@ flashcards application that helps people learn and memorize a diverse variety of
     <img alt="" src="files/CardAnalysis.png" width="30%" height="30%">
     </p>
 
-##Results
+## Results
 
 ### Deck Picker Widget
 The Deck Picker Widget offers users a convenient display of their decks, showcasing the number of cards that are new, in learning, and due for review, all at a glance. 
