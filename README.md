@@ -4,10 +4,10 @@
   <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> </h1>
 
 
-## My mentors
-[David Allison](https://github.com/david-allison) | [Arthur Milchior](https://github.com/Arthur-Milchior)
+## 📝My mentors
+[David Allison](https://github.com/david-allison) | [Arthur Milchior](https://github.com/Arthur-Milchior) | [Shridhar Goel](https://github.com/ShridharGoel)
 
-## Project Details
+## 📘Project Details
 
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) is a companion Android application for [Anki](https://github.com/ankitects/anki), a 
 flashcards application that helps people learn and memorize a diverse variety of topics. 
@@ -22,7 +22,7 @@ flashcards application that helps people learn and memorize a diverse variety of
     <img alt="" src="files/CardAnalysis.png" width="30%" height="30%">
     </p>
 
-## Results
+## 🌻Results
 
 ### Deck Picker Widget
 The Deck Picker Widget offers users a convenient display of their decks, showcasing the number of cards that are new, in learning, and due for review, all at a glance. 
