@@ -1,11 +1,16 @@
 ![GSoC logo](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg)
 
 <h1 align="center">
-  <p align="left">
-    <img alt="" src="files/star.svg" width="3%" height="3%">
-    </p>
-Anoop<br>2024<br> 
-  <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> </h1>
+  <p align="center">
+    <img alt="star" src="files/star.svg" width="3%" height="3%" style="vertical-align: middle;">
+    Anoop
+  </p>
+  <p align="center">2024</p>
+  <p align="center">
+    <a href="https://github.com/ankidroid/Anki-Android">AnkiDroid</a>
+  </p>
+</h1>
+
 
 ## My mentors
 [David Allison](https://github.com/david-allison) | [Arthur Milchior](https://github.com/Arthur-Milchior)
