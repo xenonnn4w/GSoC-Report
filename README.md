@@ -29,6 +29,15 @@ users can reconfigure their widget by holding it down, making it easy to customi
 on top of their study progress without having to open the app.
 
 ### How to use
+<p align="center">
+    <img alt="" src="files/D1.png" width="30%" height="30%">   
+    <img alt="" src="files/D2.png" width="30%" height="30%">
+    <img alt="" src="files/D3.png" width="30%" height="30%">
+</p>
 
+<p align="center">
+    <img alt="" src="files/D4.png" width="30%" height="30%">
+    <img alt="" src="files/D5.png" width="30%" height="30%">
+</p>
 
 ### Card Analysis Widget
