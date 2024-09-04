@@ -4,10 +4,10 @@
   <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> </h1>
 
 
-## 📝My mentors
+## 🌼My mentors
 [David Allison](https://github.com/david-allison) | [Arthur Milchior](https://github.com/Arthur-Milchior) | [Shridhar Goel](https://github.com/ShridharGoel)
 
-## 📘Project Details
+## ❄️Project Details
 
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) is a companion Android application for [Anki](https://github.com/ankitects/anki), a 
 flashcards application that helps people learn and memorize a diverse variety of topics. 
@@ -68,3 +68,7 @@ Here's a list of the pull requests I created during GSoC 2024:
 1. [[GSoC'24] Introducing AnalyticsWidgetProvider as ancestor of all widget classes. #16545](https://github.com/ankidroid/Anki-Android/pull/16545)
 2. [[GSoC'24] Deck Picker Widget #16450](https://github.com/ankidroid/Anki-Android/pull/16450)
 3. [[GSoC'24] Card Analysis Widget . #16982](https://github.com/ankidroid/Anki-Android/pull/16982)
+
+## ✨ Outcome
+
+This project successfully elevated the AnkiDroid app by implementing the Deck Picker and Card Analysis Widgets, delivering a more refined and accessible experience. These additions are designed to enhance user engagement, making it easier to monitor and manage study sessions directly from the home screen.
