@@ -40,4 +40,7 @@ on top of their study progress without having to open the app.
     <img alt="" src="files/D5.png" width="30%" height="30%">
 </p>
 
-### Card Analysis Widget
+### Working
+<p align="center">
+    <img alt="" src="files/DL.svg" width="30%" height="30%">
+</p>
