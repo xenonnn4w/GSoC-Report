@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <p align="center">
-    <img alt="star" src="files/star.svg" width="5%" height="5%" style="vertical-align: middle;">
+    <img alt="star" src="files/star.svg" width="4%" height="4%" style="vertical-align: middle;">
     Anoop
   </p>
   <p align="center">2024</p>
