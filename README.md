@@ -7,7 +7,7 @@
   </p>
   <p align="center">2024</p>
   <p align="center">
-    <a href="https://github.com/ankidroid/Anki-Android">AnkiDroid</a>
+     <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> 
   </p>
 </h1>
 
