@@ -42,5 +42,5 @@ on top of their study progress without having to open the app.
 
 ### Working
 <p align="center">
-    <img alt="" src="files/DL.svg" width="30%" height="30%">
+    <img alt="" src="files/DLL.svg" width="30%" height="30%">
 </p>
