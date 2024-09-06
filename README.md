@@ -15,7 +15,7 @@ Ankidroid used to lack convenient access to key study management features direct
 This inefficiency hampers user engagement and productivity. As improvements, I plan to address these challenges by implementing widgets for Ankidroid, focusing on three key areas: Deck Analysis, Card Analysis, and Cards Due. 
 My Proposal regarding the project can be seen [here](https://docs.google.com/document/d/1VLYzRhUfZdcgRViFrj_w5ASLvzz448aISbgRCdpIafE/edit?usp=sharing)
 
-My project, titled "Additional widgets"[Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM), was mainly about
+My project, titled "[Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM)", was mainly about
 * Introducing the Deck Picker Widget.
   <p align="left">
     <img alt="" src="files/DeckPicker.png" width="30%" height="30%">
