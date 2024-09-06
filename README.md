@@ -12,7 +12,7 @@
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) is a companion Android application for [Anki](https://github.com/ankitects/anki), a 
 flashcards application that helps people learn and memorize a diverse variety of topics. 
 
-[Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM) is mainly about
+My project, titled "Additional widgets"[Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM), is mainly about
 * Introducing the Deck Picker Widget.
   <p align="left">
     <img alt="" src="files/DeckPicker.png" width="30%" height="30%">
@@ -25,8 +25,8 @@ flashcards application that helps people learn and memorize a diverse variety of
 ## 🌻Results
 
 ### Deck Picker Widget
-The Deck Picker Widget offers users a convenient display of their decks, showcasing the number of cards that are new, in learning, and due for review, all at a glance. 
-This display-only widget allows users to quickly review any deck by simply clicking on it directly from the widget. With a maximum of five decks that can be selected, 
+The Deck Picker Widget offers users a convenient display of their decks, showcasing the number of cards they should review today, all at a glance. 
+This widget allows users to quickly review any deck by simply clicking on it directly from the widget. With a maximum of five decks that can be selected, 
 users can reconfigure their widget by holding it down, making it easy to customize their overview. This feature-rich widget provides a seamless way for users to stay
 on top of their study progress without having to open the app. Live preview can be seen [here](https://youtube.com/shorts/QCXAqqLnJfo)
 
@@ -43,7 +43,7 @@ on top of their study progress without having to open the app. Live preview can 
 </p>
 
 ### Card Analysis Widget
-The Card Analysis Widget delivers a detailed view of a single deck, presenting key metrics such as the count of new, in-progress, and review cards. Unlike the Deck Picker Widget,
+The Card Analysis Widget delivers a detailed view of a single deck, presenting the number of cards they should review today. Unlike the Deck Picker Widget,
 which covers multiple decks, this widget is dedicated to offering an in-depth focus on one specific deck. Users can personalize their widget by pressing and holding it,
 making it a straightforward tool for staying engaged with their study routine directly from the home screen, without the need to open the app. Live preview can be seen [here](https://youtube.com/shorts/wriIqi-N-QU)
 
@@ -72,6 +72,7 @@ Here's a list of the pull requests I created during GSoC 2024:
 ## ✨ Outcome
 
 This project successfully elevated the AnkiDroid app by implementing the Deck Picker and Card Analysis Widgets, delivering a more refined and accessible experience. These additions are designed to enhance user engagement, making it easier to monitor and manage study sessions directly from the home screen.
+Note: I checked for accessibility issues using the Android Accessibility Scanner to ensure that the widgets provide an accessible experience for all users.
 
 ## 🌼Future Plans
-I plan to continue contributing to the AnkiDroid community, but not being that much active for next two months. While I reduced the scope of my project to focus on the Deck Picker and Card Analysis Widgets, I look forward to exploring the possibility of implementing the left widget post-GSoC.
+I plan to continue contributing to the AnkiDroid community, but not being that much active for next two months. While I reduced the scope of my project to focus on the Deck Picker and Card Analysis Widget, I look forward to exploring the possibility of implementing the left widget post-GSoC.
