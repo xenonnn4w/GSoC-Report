@@ -72,3 +72,6 @@ Here's a list of the pull requests I created during GSoC 2024:
 ## ✨ Outcome
 
 This project successfully elevated the AnkiDroid app by implementing the Deck Picker and Card Analysis Widgets, delivering a more refined and accessible experience. These additions are designed to enhance user engagement, making it easier to monitor and manage study sessions directly from the home screen.
+
+## 🌼Future Plans
+I plan to continue contributing to the AnkiDroid community, but not being that much active for next two months. While I reduced the scope of my project to focus on the Deck Picker and Card Analysis Widgets, I look forward to exploring the possibility of implementing the left widget post-GSoC.
