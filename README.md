@@ -12,7 +12,7 @@
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) is a companion Android application for [Anki](https://github.com/ankitects/anki), a 
 flashcards application that helps people learn and memorize a diverse variety of topics. 
 Ankidroid used to lack convenient access to key study management features directly from their device's home screen. 
-This inefficiency hampers user engagement and productivity. As improvements, I plan to address these challenges by implementing widgets for Ankidroid, focusing on three key areas: Deck Analysis, Card Analysis, and Cards Due. 
+This inefficiency hampers user engagement and productivity. As improvements, I plan to address these challenges by implementing widgets for Ankidroid, focusing on three key areas: Deck Analysis, Card Analysis, and Cards Due. The result of my work can be used on the newest [alpha releases](https://github.com/ankidroid/Anki-Android/releases) of the app or after the 2.20 version is released on [Play store](https://play.google.com/store/apps/details?id=com.ichi2.anki), [F-Droid](https://f-droid.org/packages/com.ichi2.anki/) or [other markets](https://github.com/ankidroid/Anki-Android#install).
 My Proposal regarding the project can be seen [here](https://docs.google.com/document/d/1VLYzRhUfZdcgRViFrj_w5ASLvzz448aISbgRCdpIafE/edit?usp=sharing)
 
 My project, titled "[Additional Widgets](https://summerofcode.withgoogle.com/programs/2024/projects/w1n3pqnM)", was mainly about
