@@ -1,6 +1,6 @@
 ![GSoC logo](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg)
 
-<h1 align="center">Anoop<br>2024<br> 
+<h1 align="center">Snowiee<br>2024<br> 
   <a href="[AnkiDroid](https://github.com/ankidroid/Anki-Android)">AnkiDroid</a> </h1>
 
 
